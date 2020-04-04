@@ -26,7 +26,8 @@
   align-items: flex-start;
   padding: 100px;
   box-sizing: border-box;
-  justify-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 
