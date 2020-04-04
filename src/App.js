@@ -12,8 +12,8 @@ function App() {
       url: 'http://portainer.linzi.site/'
     },
     {
-      lable: 'portainer',
-      url: 'http://portainer.linzi.site/'
+      lable: 'pve',
+      url: 'http://pve.linzi.site/'
     },
     {
       lable: 'docker',

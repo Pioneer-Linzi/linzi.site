@@ -39,3 +39,8 @@
     transform: scale(1.1);
   }
 }
+
+.App{
+  background: url(./background.jpg) center center no-repeat;
+  background-size: 100% 100%;
+}
